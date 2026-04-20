@@ -461,7 +461,7 @@ Languages : Hindi + English + Odia
 - [ ] Analytics dashboard
 
 ---
-
+<!--
 ## 👨‍💻 Team
 
 | Name | Role | GitHub |
@@ -475,7 +475,7 @@ Languages : Hindi + English + Odia
 **Program:** B.Tech CSE (2023–2027)
 
 ---
-
+-->
 ## 📄 License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
